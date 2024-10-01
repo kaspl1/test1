@@ -10,4 +10,7 @@ _тест_
  
 ## Заголовок 3
 
+
 `nano`
+
+![alt text](image.png)
